@@ -2,6 +2,7 @@
 
 **NeuroWeave** is an intuitive web application that bridges human creativity and AI by allowing users to **visually generate and structure AI prompts** from ideas or "thoughts". It's designed to enhance productivity, especially for developers, writers, and creators working with AI models like ChatGPT or Codex.
 
+LIVE SITE: [https://gokularam-12.github.io/NEURO-WAVE/](url)
 ---
 
 ## 🌟 Features
