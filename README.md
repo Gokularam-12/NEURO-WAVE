@@ -1,35 +1,28 @@
-# 🧠 NeuroWeave – Thought-to-Code Prompt Visualizer
+ # 🧠 NeuroWeave – Thought-to-Code Prompt Visualizer
 
-**NeuroWeave** is an intuitive web application that bridges human creativity and AI by allowing users to **visually generate and structure AI prompts** from ideas or "thoughts". It's designed to enhance productivity, especially for developers, writers, and creators working with AI models like ChatGPT or Codex.
+**NeuroWeave** is an innovative web app designed to simulate the future of thought-to-code translation. It lets users input natural language prompts and instantly visualize them as structured, readable code. Built for developers, AI researchers, and futurists.
+
+🔗 **Live Demo**: [https://gokularam-12.github.io/NEURO-WAVE/](https://gokularam-12.github.io/NEURO-WAVE/)
+
+## 🚀 Features
+
+- 🧠 Natural language input field
+- 💡 AI-style code suggestion output (predefined logic)
+- 🎨 Stylish and futuristic UI design
+- 🌓 Dark mode-inspired theme with smooth animations
+- ⚡ Instant result visualization (front-end only)
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Google Fonts – Outfit**
+- **Vanilla JS logic for visualization**
+
+## 📁 Project Structure
 
 
----
-
-## 🌟 Features
-
-- 🧩 **Drag-and-Drop Prompt Builder** for crafting structured queries
-- 🧠 **Thought-to-Prompt Visualizer** that converts abstract ideas into usable AI prompts
-- 💬 **Prompt Template Library** for coding, content creation, debugging, and more
-- 🔄 **Live AI Preview** (optional: shows output using OpenAI/GPT API integration)
-- 🧑‍💻 **Developer Mode** for fine-tuning prompt tokens, temperature, context
-- 🎨 **Clean, Responsive UI** built with modern web tech
-
----
-
-## 📸 Screenshots
-
-> _Include 1–2 UI screenshots or GIFs showing the prompt builder and output preview._
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Optional Backend** (if added): Node.js / Express or Python Flask
-- **AI Integration** (optional): OpenAI API
-- **Design**: Tailwind CSS or Bootstrap (depending on implementation)
-
----
 
 ## 📂 Project Structure
 
